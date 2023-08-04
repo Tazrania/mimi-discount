@@ -1,0 +1,62 @@
+/* .mimiglass */
+.mimiglass {
+    width: 300px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 100px;
+    float: left;
+}
+
+.contenant {
+    float: right;
+    margin-top: 50px;
+    margin-right: 600px;
+    width: 500px;
+    height: 500px;
+}
+
+
+.title-brand {
+    font-size: 12px;
+    color: gray;
+}
+
+.title-item {
+    font-size: 42px;
+}
+
+
+.price {
+    letter-spacing: 1px;
+    margin-left: 10px;
+}
+
+
+.original-price {
+    text-decoration: line-through;
+    color: red;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.sale-price {
+    font-size: 14px;
+    color: black;
+}
+
+.discount {
+    font-size: 14px;
+    color: gray;
+    margin-top: 5px;
+}
+
+.buy {
+    padding: 10px;
+    width: 100px;
+    color: white;
+    border: none;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
